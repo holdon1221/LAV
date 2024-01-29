@@ -1,1 +1,1 @@
-../../lav/models/point_pillar.py
+from lav.models import point_pillar
